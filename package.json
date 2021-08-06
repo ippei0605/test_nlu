@@ -1,0 +1,11 @@
+{
+  "name": "test-nlu",
+  "version": "1.0.0",
+  "description": "Test Natural Language Understanding",
+  "author": "Ippei Suzuki",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "ibm-watson": "^6.1.1"
+  }
+}
